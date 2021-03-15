@@ -1,0 +1,27 @@
+body {
+
+    background: aquamarine;
+    color: black;
+    
+    }
+    
+    .heading {
+    
+        width: 80%;
+        font-size: 22px;
+    
+    }
+    
+    #cam {
+    
+    border: 2px dashed burlywood;
+    width: 350px;
+    height: 300px;
+    
+    }
+    
+    .objects, #object_name, #accuracy {
+    
+    color: cadetblue;
+    
+    }
